@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://web.archive.org/web/20230000000000*/airoots.org/">
+    <img
+      src="src/airoots-logo.gif"
+      width="400"
+    />
+  </a>
+</p>
+
 <div align="center">
   <h1>airoots archive</h1>
   <p>
@@ -7,7 +16,7 @@
 
 # Introduction
 
-This project involves digitizing a collection of articles written by [Rahul Srivastava](https://www.urbz.net/rahul) and [Mattias Echanove](https://www.urbz.net/matias) for airoots / ɛəruːts /, a blog on adventitious roots, urban forests & villages, natural cities, lost tribes, new nomads, and everything in between.
+This project involves digitizing a collection of articles written by [Rahul Srivastava](https://www.urbz.net/matias) and [Mattias Echanove](https://www.urbz.net/matias) for airoots / ɛəruːts /, a blog on adventitious roots, urban forests & villages, natural cities, lost tribes, new nomads, and everything in between.
 
 
 # Table of Contents
@@ -34,7 +43,7 @@ Here's an example: `28-06-2015_the-slum-explosion-anxiety.md`
 
 ### Creating a Markdown File:
 
-Similar to the naming convention, all the articles must follow a standardized structure.
+Similar the naming convention, all the articles must follow a standardized structure.
 
 The header of each `.md` file contains the title, publication date, and associated blog, formatted as follows:
 
