@@ -34,7 +34,7 @@ Here's an example: `28-06-2015_the-slum-explosion-anxiety.md`
 
 ### Creating a Markdown File:
 
-Similar the naming convention, all the articles must follow a standardized structure.
+Similar to the naming convention, all the articles must follow a standardized structure.
 
 The header of each `.md` file contains the title, publication date, and associated blog, formatted as follows:
 
