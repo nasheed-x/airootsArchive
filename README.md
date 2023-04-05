@@ -7,7 +7,7 @@
 
 # Introduction
 
-This project involves digitizing a collection of articles written by [Rahul Srivastava](https://www.urbz.net/matias) and [Mattias Echanove](https://www.urbz.net/matias) for airoots / ɛəruːts /, a blog on adventitious roots, urban forests & villages, natural cities, lost tribes, new nomads, and everything in between.
+This project involves digitizing a collection of articles written by [Rahul Srivastava](https://www.urbz.net/rahul) and [Mattias Echanove](https://www.urbz.net/matias) for airoots / ɛəruːts /, a blog on adventitious roots, urban forests & villages, natural cities, lost tribes, new nomads, and everything in between.
 
 
 # Table of Contents
