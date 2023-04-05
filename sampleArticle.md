@@ -1,7 +1,7 @@
 ---
+organization: 'airoots.org'
 title: 'Article Name'
 published: 'DD-MM-YYYY'
-blog: 'airoots.org'
 ---
 
 Senectus et netus et malesuada fames ac. Facilisis magna etiam tempor orci. Nibh cras pulvinar mattis nunc sed. Hac habitasse platea dictumst quisque sagittis purus. [Nulla aliquet](https://nyuad.io) enim tortor at auctor urna nunc id. Adipiscing elit pellentesque habitant morbi. Tempor orci dapibus ultrices in iaculis. Arcu non odio euismod lacinia at. Enim diam vulputate ut pharetra sit amet aliquam id. Non diam phasellus vestibulum lorem sed. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Odio ut sem nulla pharetra diam. Dolor sit amet consectetur adipiscing elit duis. Diam in arcu cursus euismod quis. Ullamcorper a lacus vestibulum sed. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.

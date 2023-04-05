@@ -40,9 +40,9 @@ The header of each `.md` file contains the title, publication date, and associat
 
 ```
 ---
+organization: 'airoots.org'
 title: 'Article Name'
 published: 'DD-MM-YYYY'
-blog: 'airoots.org'
 ---
 ```
 
@@ -57,9 +57,9 @@ Together, they would look something like this:
 
 ```
 ---
+organization: 'airoots.org'
 title: 'Article Name'
 published: 'DD-MM-YYYY'
-blog: 'airoots.org'
 ---
 
 Euismod quis viverra nibh cras pulvinar mattis...
