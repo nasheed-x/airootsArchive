@@ -125,3 +125,19 @@ considered to be problematic. Service providers and workers who contribute to th
 economy are considered to be unreliable players – viewed as undisciplined and volatile.
 Disgruntled employers complain about how they vanish to their villages at erratic times, families
 bemoan their drivers and maids who rush off to their native place just when they need them.
+
+What the workers, maids, drivers and other service-providers are doing is exercising their
+motility – thanks to the railway network and their traditional support systems.
+
+We are a country in which millions of multi-tasking workers subsidize the costs of the urban
+labour-force. Our workers listen to the complaints of their employers and bosses with
+resignation and good-natured acknowledgement, before boarding the next train to go home for
+a month, sometimes more than a thousand miles away.
+
+Yes – we miss our chai when maama goes away to his village near Pune – every now and
+then..but we know he comes back as well...and have learned to respect his choice and need to
+do that. More often than not it may be to work in his fields or tend to a family member. Thanks to several historical and cultural factors he has a high degree of motility, in spite of a
+lack of other resources. Combined with an infrastructure that still yields cheap travel, this adds
+substantial security to his life.
+
+Missing a few cups of tea is a small price to pay on our part.
