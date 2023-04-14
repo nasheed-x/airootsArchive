@@ -112,3 +112,92 @@ striking about Padora’s approach is his ability to be adventurous with materia
 flexibility of light and heavy moments, derive an aesthetic from all kinds of sources including
 textiles and carpet weaving, and work with artisanal skills in the way we find most productive –
 well adapted to contemporary and even futuristic technological and economic needs.
+
+  We realise that building on tradition is never easy. Moments from the past can never be revoked
+or recreated – least of all through simply ideating change.
+
+  The European relationship to construction, artisanal histories and textiles produced an equation
+that still sustains its sense of supreme confidence in the world of design that no amount of
+mimicking will ever recreate for another set of practices from another history.
+What may be more productive is to look firmly at the present – at the existing realities that
+confront us and – if we want to be inspired by Semper at all – translate his moment more
+delicately into the present.
+
+  What we would like to draw on from him is the observation that building traditions emerging from
+textile and its rich allied practices – like weaving – are as valid as the ‘hard’ world of stone,
+masonry, ironsmith and carpentry – as architectural practice itself.
+
+  Besides this – what we would also like to pay attention to is the other element of skill formation
+that our world today is networked into – information and knowledge – and see how these come
+together to produce a new language of architectural and urban practice. We see specific
+processes of thought and practice as having becoming enmeshed to produce new ways of
+understanding architecture.
+
+  Thus a specific building as a starting point – its spatial logic, its dimensions and its aesthetic
+touch is created through negotiating several anxieties about the role of the mason, the architect
+and the engineer. Similarly, when a neighbourhood in a city is the site of operation, the
+anxieties get enmeshed differently, with the architect and engineer working together and
+evoking the citizens in a specific way.
+
+  In the European tradition the architect, at some historical point, became the master of practices
+involved with building – in terms of an appointed role. Someone who worked with engineers,
+masons, carpenters, artists and provided his signature to the work produced. Typically his
+structure was usually commissioned by the Church, royalty or an aristocrat.
+
+  Yet, there remained a world of building outside his appointed role, a world that did not require
+his signature. This world – for a long time remained closer to Semper’s primitive building spaces
+in which the metaphors in use were closer to textiles than masonry. Homes made of reeds, cloth
+and the use of mud as flexible material dominated simpler societies, peasants, slaves and tribal
+communities. Where the arch builder – the master was not needed. It must be said though that
+some more technologically advanced societies like China and Japan also used woodwork and
+paper to produce very sophisticated building traditions that used weaving as a principle rather
+than masonry – to produce exquisite structures.
+
+  This space of weaving homes also produced a rich source of imagery to think about places.
+Textiles as metaphor related to construction and design is not something that must be reduced
+to materials and its direct uses whatsoever. In fact that has been the biggest problem when
+contemporary societies try to work with the idea of traditional artisanship. Historians point out
+that all kinds of productive work has been in a constant state of change and transformation and
+to look at the past in terms of specific material use and skill sets as if they never adapted to
+markets and changing contexts would be myopic.
+
+  For us the richest interpretation we could possibly make of Semper’s observations is to think
+through new metaphors derived from architecture and textiles. And one very powerful metaphor
+is that of the Urban Fabric. In an earlier piece in this blog – we spoke about the Aesthetic of
+Habitats while reflecting on the idea of aesthetics in urban spaces as a whole – navigating the
+world of architecture and design and trying to value the gaze that looks at neighbourhoods and
+cities.
+
+  By re-visiting Semper we would like to argue that the patterns and elements of collective
+construction – as seen in the world of homegrown settlements is something that needs to be
+valued deeply – both as a practice and as an aesthetic. The idea of an urban fabric is a powerful
+one. It at once values the role of several weavers – home makers – tied to a logic of relations
+that produce patterns while being constructed. This represents a completely valid form of urban
+life that exists all around the world. Constantly improving favelas in Brazil, uncertain occupied
+spaces in Kenya, highly productive, skilled but marginal settlements in Mumbai, and
+incrementally grown neighbourhoods in Tokyo have started being recognized as having an
+aesthetic of their own.
+
+  Unfortunately, the reason most people see them as illegitimate spaces is not so much linked to
+their occupancy rights, poor quality, or misplaced and anachronistic exoticness (as in the case
+of Tokyo ) but as Ivan Illich would have reminded us – because they are produced in ways we
+consider illegitimate.
+
+  They are made through a collective intelligence, through processes that weave entire
+neighbourhoods with actors working in dedicated ways – without the master-builder providing a
+signature. Homes are woven into neighbourhoods through processes that produce their own
+patterns – which – through a historical gaze – have an aesthetic. But seen without imagination
+are considered to be without any whatsoever.
+
+  Our work in Mumbai’s homegrown settlements, provide us with new learning experiences
+everyday. And several more questions. What exactly is the role of an architect within such a
+densely and intricately woven fabric of networked homes? – is just one among them. We get
+some glimpses of answers in the small moves we make – project by project. A co-designed
+temple, a mosque, a tiny house – each of them a cacophony of intense dialogues and debates,
+but collectively being embraced into a landscape that seems to be emerging with its own
+pattern, its own style. We look forward to see what the future holds for us, as we take these
+small steps, we wonder what the pattern in the fabric will look like...
+
+*(These reflections were stimulated by discussions with Yehuda Safran who introduced us to
+Semper and Sarover Zaidi, who shared Rebecca Houze’s essay, during the Handstorm
+workshop organized in Shivaji Nagar Govandi – March 14-20th 2014. Photos by Tobias Baitsch)*
